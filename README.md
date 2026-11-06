@@ -7,3 +7,5 @@ Open `index.html` in a browser, or serve it from any static host. Practice is im
 Run `node --test relay.test.cjs` for the board and telemetry checks.
 
 Squeekchain integration: <https://docs.squeekchain.com/developers/api/>
+
+squeekchain-project: b513c714-22bb-4910-a063-c64a841e25a8
